@@ -1,0 +1,11 @@
+<Route path="/business" element={<News pagesize={5} country="in" category="business" />}</Route>
+<Route path="/entertainment" element={<News pagesize={5} country="in" category="entertainment" />}</Route>
+<Route path="/general" element={<News pagesize={5} country="in" category="general" />}</Route>
+<Route path="/health" element={<News pagesize={5} country="in" category="health" />}</Route>
+<Route path="/science" element={<News pagesize={5} country="in" category="science" />}</Route>
+<Route path="/sports" element={<News pagesize={5} country="in" category="sports" />}</Route>
+<Route path="/technology" element={<News pagesize={5} country="in" category="technology" />}</Route>
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fbusiness-news&psig=AOvVaw1dl3QkwmriKNP0LJutHaN2&ust=1675707084631000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLD6zcH9_vwCFQAAAAAdAAAAABAE
+
+https://img.freepik.com/premium-vector/news-concept-illustration-flat-design_23-2148268772.jpg?w=2000
